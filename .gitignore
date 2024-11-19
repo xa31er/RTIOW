@@ -31,5 +31,6 @@
 *.out
 *.app
 
-output.ppm
+*.ppm
 main
+.vscode/
